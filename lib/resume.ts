@@ -11,7 +11,7 @@ export const experience: TimelineItem[] = [
   {
     organization: "Traveloka",
     role: "Product Manager — Competitive Intelligence",
-    period: "2024 — Present",
+    period: "Dec 2024 — Present",
     location: "Jakarta, Indonesia",
     summary:
       "Lead Competitive Intelligence products: the platform, data infrastructure, and internal tools that turn competitor signals into decisions.",
@@ -23,35 +23,48 @@ export const experience: TimelineItem[] = [
   },
   {
     organization: "Astro",
-    role: "Operations / Product",
-    period: "2022 — 2024",
+    role: "Platform Excellence Lead",
+    period: "Jul 2024 — Dec 2024",
     location: "Jakarta, Indonesia",
     summary:
-      "Worked at the intersection of operations and product in a fast-scaling quick-commerce environment.",
+      "Led platform initiatives in a fast-scaling quick-commerce environment — operational analytics, forecasting automation, and platform performance monitoring.",
     points: [
-      "Translated messy operational reality into product and process requirements.",
-      "Built the operational instinct for what actually breaks at scale — later foundational to platform work.",
+      "Drove platform work spanning operational analytics, forecasting automation, and performance monitoring.",
+      "Developed Search Guidelines that improved add-to-cart performance through better search relevance, category discovery, and keyword ranking.",
     ],
   },
   {
     organization: "Anteraja",
-    role: "Operations",
-    period: "2020 — 2022",
+    role: "Product Manager Lead",
+    period: "Sep 2021 — Jul 2024",
     location: "Jakarta, Indonesia",
     summary:
-      "Operations in last-mile logistics — the origin of a systems-and-constraints view of problems.",
+      "Owned product across last-mile logistics — cargo, frozen, and instant delivery — where a systems-and-constraints view of problems took shape.",
     points: [
-      "Ran and improved operational processes under real-world constraints and scale.",
-      "Learned to reason about throughput, bottlenecks, and failure modes in physical systems.",
+      "Designed and launched an automated Volume Forecast System, building a standardization layer over unstandardized customer inputs and cutting forecasting cycles from 4–5 days to 1 day.",
+      "Managed end-to-end product across cargo, frozen, and instant delivery verticals — defining north-star metrics, system flows, and operational KPIs across regions.",
+    ],
+  },
+  {
+    organization: "GMF AeroAsia",
+    role: "Planning and Engineering Manager",
+    period: "Dec 2015 — Aug 2021",
+    location: "Jakarta, Indonesia",
+    summary:
+      "Planning and engineering for aircraft structural maintenance at Garuda Indonesia's MRO arm — the origin of reasoning from first principles under hard safety constraints.",
+    points: [
+      "Led planning and engineering for aircraft structural maintenance projects, directing 22 engineers and 30 operational support staff.",
+      "Coordinated cross-functional engineering teams to keep aircraft maintenance safe, on time, and efficient.",
     ],
   },
 ];
 
 export const education: TimelineItem[] = [
   {
-    organization: "Materials Engineering",
-    role: "Bachelor's Degree",
-    period: "—",
+    organization: "Institut Teknologi Bandung (ITB)",
+    role: "Bachelor of Engineering — Materials Engineering",
+    period: "2011 — 2015",
+    location: "Bandung, Indonesia",
     summary:
       "An engineering foundation: reasoning from first principles, modeling systems, and respecting constraints.",
     points: [],
