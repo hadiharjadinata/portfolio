@@ -4,7 +4,7 @@ export const siteConfig = {
   title: "Hadi Maulana Harjadinata — Product Manager",
   description:
     "Product Manager building products that combine data, engineering, and business strategy to solve complex operational problems. Currently leading Competitive Intelligence products at Traveloka.",
-  url: "https://hadiharjadinata.github.io",
+  url: "https://portfolio-rho-coral-27.vercel.app",
   role: "Product Manager",
   company: "Traveloka",
   email: "hadi.harjadinata@traveloka.com",
