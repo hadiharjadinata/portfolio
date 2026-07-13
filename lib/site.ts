@@ -7,7 +7,7 @@ export const siteConfig = {
   url: "https://portfolio-rho-coral-27.vercel.app",
   role: "Product Manager",
   company: "Traveloka",
-  email: "hadi.harjadinata@traveloka.com",
+  email: "hadi.harjadinata@gmail.com",
   links: {
     linkedin: "https://www.linkedin.com/in/hadiharjadinata",
     github: "https://github.com/hadiharjadinata",
